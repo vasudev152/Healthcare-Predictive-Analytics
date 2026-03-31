@@ -42,8 +42,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/username/ProjectName.git
-cd ProjectName
+git clone https://github.com/vasudev152/Healthcare-Predictive-Analytics
 Set up your environment: Install required dependencies:
 
 Linux/macOS:
